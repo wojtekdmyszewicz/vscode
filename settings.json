@@ -1,0 +1,33 @@
+{
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "files.autoSave": "off",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.tabSize": 3,
+    "workbench.statusBar.visible": true,
+    "editor.minimap.enabled": false,
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "emmet.excludeLanguages": [
+        "markdown",
+        "php"
+    ],
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-path.mac": "/Users/wojtekdmyszewicz/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+        "vscode-kubernetes.minikube-path.mac": "/Users/wojtekdmyszewicz/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Material Theme Ocean",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "window.zoomLevel": 1,
+    "files.watcherExclude": {
+        "**/node_modules/**": true
+    },
+    "redhat.telemetry.enabled": true
+}
